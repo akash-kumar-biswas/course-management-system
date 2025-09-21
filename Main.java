@@ -60,5 +60,6 @@ public class Main {
         mainModule.addComponent(lesson3);
 
         mainModule.showDetails();
+        System.out.println("Testing for pull request");
     }
 }
