@@ -9,6 +9,7 @@ class Lesson implements CourseComponent {
     private String title;
     private String duration; 
     private String instructorName;
+    private String xyz;
 
     public Lesson(String title, String duration, String instructorName) {
         this.title = title;
